@@ -61,7 +61,7 @@ if (isset($_POST['add_to_cart'])) {
     <div class="container-fluid">
         <div class="hero-slider">
             <div class="slider-item">
-            <img src="icon.png" alt="Hero Image">
+            <img src="./image/icon.png" alt="Hero Image">
                 <div class="slider-caption">
                     <span>Test The Quality</span>
                     <h1>Organic Premium <br> Honey</h1>
@@ -70,7 +70,7 @@ if (isset($_POST['add_to_cart'])) {
                 </div>
             </div>
             <div class="slider-item">
-                <img src="Honey-PNG-File.png" alt="Honey Image">
+                <img src="./image/Honey-PNG-File.png" alt="Honey Image">
                 <div class="slider-caption">
                     <span>Test The Quality</span>
                     <h1>Organic Premium <br> Honey</h1>
@@ -79,7 +79,7 @@ if (isset($_POST['add_to_cart'])) {
                 </div>
             </div>
             <div class="slider-item">
-                <img src="honey-png-11553987315bmprujy8zf.png" alt="Honey Image">
+                <img src="./image/honey-png-11553987315bmprujy8zf.png" alt="Honey Image">
                 <div class="slider-caption">
                     <span>Test The Quality</span>
                     <h1>Organic Premium <br> Honey</h1>
@@ -88,7 +88,7 @@ if (isset($_POST['add_to_cart'])) {
                 </div> 
             </div>
             <div class="slider-item">
-                <img src="th__3_-removebg-preview.png" alt="Honey Image">
+                <img src="./image/th__3_-removebg-preview.png" alt="Honey Image">
                 <div class="slider-caption">
                     <span>Test The Quality</span>
                     <h1>Organic Premium <br> Honey</h1>
@@ -106,21 +106,21 @@ if (isset($_POST['add_to_cart'])) {
     <div class="services">
         <div class="row">
             <div class="box">
-                <img src="250-2506303_product-logo-cargo-ship-portable-network-graphics-fast-removebg-preview.png">
+                <img src="./image/250-2506303_product-logo-cargo-ship-portable-network-graphics-fast-removebg-preview.png">
                 <div>
                     <h1>Free Shipping Fast</h1>
                     <p>"Get Your Orders with Blazing Fast Free Shipping_No Minimum Purchase!"</p>
                 </div>
             </div>
             <div class="box">
-                <img src="Money-back-guarantee-rubber-label-stamp-seal-on-transparent-background-PNG-removebg-preview.png">
+                <img src="./image/Money-back-guarantee-rubber-label-stamp-seal-on-transparent-background-PNG-removebg-preview.png">
                 <div>
                     <h1>Money Back & Guarantee</h1>
                     <p> Blazing Fast Free Shipping & Money-Back Guarantee!"</p>
                 </div>
             </div>
             <div class="box">
-                <img src="th__11_-removebg-preview.png">
+                <img src="./image/th__11_-removebg-preview.png">
                 <div>
                     <h1>online Suport 24/7</h1>
                     <p>"24/7 Online Support: We're Here for You Anytime, Day or Night!"</p>
@@ -142,7 +142,7 @@ if (isset($_POST['add_to_cart'])) {
                  <a href="shop.php" class="btn">shop now</a>
                 </div>
                 <div class="box">
-                    <img src="Honey-No-Background (1).png">
+                    <img src="./image/Honey-No-Background (1).png">
                 </div>
         </div>
      </div>
@@ -150,7 +150,7 @@ if (isset($_POST['add_to_cart'])) {
         <h1 class="title">What Our Customers Say</h1>
         <div class="testimonial-slider">
             <div class="testimonial-item">
-                <img src="th (13).jpeg" alt="Customer Testimonial 1">
+                <img src="./image/th (13).jpeg" alt="Customer Testimonial 1">
                 <div class="testimonial-caption">
                     <span>Test The Quality</span>
                     <h1>Organic Premium Honey</h1>
@@ -158,7 +158,7 @@ if (isset($_POST['add_to_cart'])) {
                 </div>
             </div>
             <div class="testimonial-item">
-                <img src="th (12).jpeg" alt="Customer Testimonial 2">
+                <img src="./image/th (12).jpeg" alt="Customer Testimonial 2">
                 <div class="testimonial-caption">
                     <span>Test The Quality</span>
                     <h1>Organic Premium Honey</h1>
@@ -166,7 +166,7 @@ if (isset($_POST['add_to_cart'])) {
                 </div>
             </div>
             <div class="testimonial-item">
-                <img src="th (15).jpeg" alt="Customer Testimonial 3">
+                <img src="./image/th (15).jpeg" alt="Customer Testimonial 3">
                 <div class="testimonial-caption">
                     <span>Test The Quality</span>
                     <h1>Organic Premium Honey</h1>
@@ -174,7 +174,7 @@ if (isset($_POST['add_to_cart'])) {
                 </div>
             </div>
             <div class="testimonial-item">
-                <img src="th (14).jpeg" alt="Customer Testimonial 4">
+                <img src="./image/th (14).jpeg" alt="Customer Testimonial 4">
                 <div class="testimonial-caption">
                     <span>Test The Quality</span>
                     <h1>Organic Premium Honey</h1>
@@ -182,7 +182,7 @@ if (isset($_POST['add_to_cart'])) {
                 </div>
             </div>
             <div class="testimonial-item">
-                <img src="stock-person-png-stock-photo-man-11563049686zqeb9zmqjd.png" alt="Customer Testimonial 5">
+                <img src="./image/stock-person-png-stock-photo-man-11563049686zqeb9zmqjd.png" alt="Customer Testimonial 5">
                 <div class="testimonial-caption">
                     <span>Test The Quality</span>
                     <h1>Organic Premium Honey</h1>
@@ -205,7 +205,7 @@ if (isset($_POST['add_to_cart'])) {
                 <a href="shop.php" class="btn">discover now</a>
         </div>
         <div class="img-box">
-             <img src="honey-clipart-honey-jar-12.png">
+             <img src="./image/honey-clipart-honey-jar-12.png">
         </div>
     </div>
     <?php
@@ -227,16 +227,16 @@ if (isset($_POST['add_to_cart'])) {
     </div>
     <div class="client">
         <div class="box">
-            <img src="lg1.png">
+            <img src="./image/lg1.png">
         </div>
         <div class="box">
-            <img src="lg2.png">
+            <img src="./image/lg2.png">
         </div>
         <div class="box">
-            <img src="lg3.png">
+            <img src="./image/lg3.png">
         </div>
         <div class="box">
-            <img src="lg4.png">
+            <img src="./image/lg4.png">
         </div>
     </div>
     <?php include 'footer.php'; ?>

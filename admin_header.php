@@ -31,7 +31,7 @@
                 </form>
             </div>
            </div>
-            <img class="f" src="logobeensi.png">
+            <img class="f" src="./image/logobeensi.png">
         <div class="banner">
             <div class="detail">
                 <h1>the Purity</h1>

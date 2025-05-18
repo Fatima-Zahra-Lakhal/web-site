@@ -125,7 +125,7 @@ input[type=submit]{
 {
     content: '';
     position:absolute;
-    background-image: url('hony4.jpg');
+    background-image: url('./image/hony4.jpg');
     left:-10px;
     top: -5px;
     width: 255px;
@@ -137,7 +137,7 @@ input[type=submit]{
 .form-container::after{ 
     content: '';
     position:absolute;  
-    background-image: url('hony3.jpg');
+    background-image: url('./image/hony3.jpg');
     bottom:0;
     right:0;
     width: 255px;
@@ -243,7 +243,7 @@ header.scrolled a:hover {
     align-items: center;
     position: relative;
     margin: 0 auto;
-    background-image: url('logobeensi - Copie.png');
+    background-image: url('./image/logobeensi - Copie.png');
     background-position: -7rem -6rem;
     background-size: 40%;
     background-repeat: no-repeat;
@@ -277,7 +277,7 @@ header .icons i:hover{
     text-decoration: none;
 }
 .fati{
-    background-image: url("bag.jpg");
+    background-image: url("./image/bag.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -331,7 +331,7 @@ header .icons i:hover{
     content: '';
     top:-25%;
     left:-10px;
-    background-image: url("icon.png");
+    background-image: url("./image/icon.png");
     width: 225px;
     height: 220px;
     background-size: 225px;
@@ -339,7 +339,7 @@ header .icons i:hover{
     z-index:100;
 }
 .box-container{
-    background-image: url("pngtree-modern-minimalist-honey-hive-bee-background-material-image_125810.jpg");
+    background-image: url("./image/pngtree-modern-minimalist-honey-hive-bee-background-material-image_125810.jpg");
     border-radius: 20%;
     background-size: 80%;
     background-position-x: -8rem;
@@ -376,7 +376,7 @@ header .icons i:hover{
 }
 #lakhal .add-products{
     background: none;
-    background-image: url("honey-png-11553987315bmprujy8zf.png");
+    background-image: url("./image/honey-png-11553987315bmprujy8zf.png");
     background-repeat: no-repeat;
     background-size: 30%;
  background-position-x: -6%;
@@ -387,7 +387,7 @@ header .icons i:hover{
 }
 #lakhal .form-container::before{
     background: none;
-    background-image: url("bagg.png");
+    background-image: url("./image/bagg.png");
     background-repeat: no-repeat;
     margin-left: 61rem;
     margin-top: 29rem;

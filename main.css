@@ -199,7 +199,7 @@ header.scrolled a:hover {
     align-items: center;
     position: relative;
     margin: 0 auto;
-    background-image: url('logobeensi - Copie.png');
+    background-image: url('./image/logobeensi - Copie.png');
     background-position: -7rem -6rem;
     background-size: 40%;
     background-repeat: no-repeat;
@@ -283,7 +283,7 @@ header .icons i:hover{
     margin-top: -6rem;
 }
 #header{
-    background-image: url("draw.png");
+    background-image: url("./image/draw.png");
     background-repeat:no-repeat;
     background-size: 150%; 
     margin-bottom:7rem;
@@ -294,7 +294,7 @@ footer{
         width: 100%;
         margin-top: -50rem;
         position: relative;
-        background: url("draw - Copie.png");
+        background: url("./image/draw - Copie.png");
         background-repeat:round ;
         background-size: 150%;
         padding-top: 3rem; 
@@ -467,7 +467,7 @@ footer .bottom-footer p{
 .services::before,
 .testimonial-fluid::before{
     content: '';
-    background-image: url("honeycomb-clipart-stick-10.png");
+    background-image: url("./image/honeycomb-clipart-stick-10.png");
     position:absolute;
     position: absolute;
     top:0;
@@ -508,7 +508,7 @@ footer .bottom-footer p{
 .story,.discover {
     padding: 8% 6%;
     background-color: #f5f5f5;
-    background-image: url("draw1.png"); 
+    background-image: url("./image/draw1.png"); 
     background-repeat: no-repeat;
     background-size: 325%;
     background-position: center;
@@ -516,7 +516,7 @@ footer .bottom-footer p{
 }
 .story::before {
     content: '';
-    background: url('honey_PNG86286.png');
+    background: url('./image/honey_PNG86286.png');
     background-repeat: no-repeat;
     position: absolute;
     bottom: -100px;
@@ -591,7 +591,7 @@ footer .bottom-footer p{
     padding: 0;
     width: 100%;
     height: 100%;
-    background-image: url("bag.png");
+    background-image: url("./image/bag.png");
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: -3rem;
@@ -600,7 +600,7 @@ footer .bottom-footer p{
 .testimonial-fluid::before,.team::before{
     content: '';
     position: absolute;
-    background-image: url("Honey-Free-PNG.png");
+    background-image: url("./image/Honey-Free-PNG.png");
     top: 10px;
     left: 0px;
     width: 130px;
@@ -613,7 +613,7 @@ footer .bottom-footer p{
 .testimonial-fluid::after ,.team::after{
     content: '';
     position: absolute;
-    background-image: url("honey_PNG86286.png");
+    background-image: url("./image/honey_PNG86286.png");
     background-repeat: no-repeat;
     bottom: -120px;
     width: 130px;
@@ -667,7 +667,7 @@ footer .bottom-footer p{
 }
 .discover::before {
     content: '';
-    background: url('bagg - Copie.png');
+    background: url('./image/bagg - Copie.png');
     background-repeat: no-repeat;
     position: absolute;
     top:2rem;
@@ -678,7 +678,7 @@ footer .bottom-footer p{
     background-size:200px;
 }
 .discover{
-    background-image: url("draw1.png");
+    background-image: url("./image/draw1.png");
     background-size: 270%;
     position: relative; /* Ajout pour que ::after soit positionné correctement */
     margin-top: -4.5rem;
@@ -687,7 +687,7 @@ footer .bottom-footer p{
 
 .discover::after{
     content: "";
-    background-image: url("bagg.png");
+    background-image: url("./image/bagg.png");
     background-repeat: no-repeat;
     position: absolute;
     bottom:-2rem;
@@ -852,7 +852,7 @@ footer .bottom-footer p{
     margin-right: .5rem;
 }
 .newslatter { /* ou .newsletter si c'est la classe correcte */
-    background-image: url("draw1.png");
+    background-image: url("./image/draw1.png");
     background-size: 120%;
     background-position: center;
     position: relative;
@@ -866,7 +866,7 @@ footer .bottom-footer p{
 .about-us::before,.project::before{
     content: "";
     position: absolute;
-    background-image: url("icon.png");
+    background-image: url("./image/icon.png");
     background-repeat: no-repeat;
     width: 300px;
     height: 320px;
@@ -877,7 +877,7 @@ footer .bottom-footer p{
 .newslatter::after,.project::after{
         content: "";
         position: absolute;
-        background-image: url("icon.png");
+        background-image: url("./image/icon.png");
         background-repeat: no-repeat;
         width: 300px;
         height: 320px;
@@ -933,7 +933,7 @@ footer .bottom-footer p{
     color: #000;
 }
 .about-us{
-    background-image: url("draw1.png");
+    background-image: url("./image/draw1.png");
     position:relative;
     background-repeat: no-repeat;
     background-size: 160%;
@@ -941,7 +941,7 @@ footer .bottom-footer p{
    background-position-y: -12rem;
 }
 .about-us::before{
-    background:url('bagg.png');
+    background:url('./image/bagg.png');
     width: 316px;
     height: 245px;
     background-size: 50%;
@@ -951,7 +951,7 @@ footer .bottom-footer p{
 .about-us::after {
     content: "";
     position: absolute;
-    background-image: url("bagg\ -\ Copie.png");
+    background-image: url("./image/bagg\ -\ Copie.png");
     background-repeat: no-repeat;
     width: 300px;
     height: 320px;
@@ -967,7 +967,7 @@ footer .bottom-footer p{
 }
 #ia{
     background: none;
-    background-image:url('draw.png') ;
+    background-image:url('./image/draw.png') ;
     background-repeat: no-repeat;
     background-size: 110%;
 }
@@ -982,7 +982,7 @@ footer .bottom-footer p{
     margin-left: 1rem;
 }
 .features{
-    background-image: url('bag.png');
+    background-image: url('./image/bag.png');
     padding: 3rem 0;
     margin-top: -3.5rem;
     min-height: 70vh;
@@ -1020,7 +1020,7 @@ footer .bottom-footer p{
 }
 .team{
     text-align:center;
-   background-image: url('draw1.png');
+   background-image: url('./image/draw1.png');
     padding: 3rem;
     background-position-y: -17rem;
     position: relative;
@@ -1075,7 +1075,7 @@ footer .bottom-footer p{
     border-radius: 5px;
 }
 .project{
-    background-image: url("bag.png");
+    background-image: url("./image/bag.png");
     padding: 3rem 0;
     margin-top: -3.5rem;
     position: relative;
@@ -1103,7 +1103,7 @@ footer .bottom-footer p{
 }
 .ideas{
     margin-top: -12rem;
-    background-image:url("draw1.png") ;
+    background-image:url("./image/draw1.png") ;
     background-repeat: no-repeat;
     background-size: 148%;
     background-position-y: -14.5rem;
@@ -1286,7 +1286,7 @@ padding: 0 3rem;
     margin-top: 10rem;
 }
 .form-container{
-    background-image: url("bag.png");
+    background-image: url("./image/bag.png");
     background-repeat: no-repeat;
     background-size: 280%;
     
@@ -1301,7 +1301,7 @@ padding: 0 3rem;
 {
     content: '';
     position:absolute;
-    background-image: url('hony4.jpg');
+    background-image: url('./image/hony4.jpg');
     left:-10px;
     top: 50px;
     width: 255px;
@@ -1313,7 +1313,7 @@ padding: 0 3rem;
 .form-container::after{ 
     content: '';
     position:absolute;  
-    background-image: url('hony3.jpg');
+    background-image: url('./image/hony3.jpg');
     bottom:0;
     right:0;
     width: 255px;
@@ -1354,7 +1354,7 @@ padding: 0 3rem;
     border: none;
 }
 .address{
-    background-image:url("draw2.png");
+    background-image:url("./image/draw2.png");
     background-repeat: no-repeat;
     background-size: 120%;
     background-position-y: -14rem;

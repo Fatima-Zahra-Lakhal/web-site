@@ -50,21 +50,21 @@ if(isset($_POST['submit-btn'])){
         <div class="services">
         <div class="row">
             <div class="box">
-                <img src="250-2506303_product-logo-cargo-ship-portable-network-graphics-fast-removebg-preview.png">
+                <img src="./image/250-2506303_product-logo-cargo-ship-portable-network-graphics-fast-removebg-preview.png">
                 <div>
                     <h1>Free Shipping Fast</h1>
                     <p>"Get Your Orders with Blazing Fast Free Shipping_No Minimum Purchase!"</p>
                 </div>
             </div>
             <div class="box">
-                <img src="Money-back-guarantee-rubber-label-stamp-seal-on-transparent-background-PNG-removebg-preview.png">
+                <img src="./image/Money-back-guarantee-rubber-label-stamp-seal-on-transparent-background-PNG-removebg-preview.png">
                 <div>
                     <h1>Money Back & Guarantee</h1>
                     <p> Blazing Fast Free Shipping & Money-Back Guarantee!"</p>
                 </div>
             </div>
             <div class="box">
-                <img src="th__11_-removebg-preview.png">
+                <img src="./image/th__11_-removebg-preview.png">
                 <div>
                     <h1>online Suport 24/7</h1>
                     <p>"24/7 Online Support: We're Here for You Anytime, Day or Night!"</p>

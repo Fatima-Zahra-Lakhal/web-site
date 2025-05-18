@@ -48,7 +48,7 @@ if (isset($_POST['logout'])) {
                     each selected with care to ensure you receive only the best. Thank you for choosing us as your trusted source for all your needs</p>
              </div>
              <div class="img-box">
-                 <img src="th (17).jpeg" alt="photo">
+                 <img src="./image/th (17).jpeg" alt="photo">
              </div>
            </div>
         </div>
@@ -59,22 +59,22 @@ if (isset($_POST['logout'])) {
             </div>
             <din class="row">
                <div class="box">
-                <img src="th (11).jpeg">
+                <img src="./image/th (11).jpeg">
                 <h4>24 X 7</h4>
                 <p>Online Support 27/7</p>
             </div>
                <div class="box">
-                <img src="150-1501872_100-money-back-guarantee-circle-clipart.png">
+                <img src="./image/150-1501872_100-money-back-guarantee-circle-clipart.png">
                 <h4>Money Back Guarantee</h4>
                 <p>100% Secure Payment</p>
             </div>
                <div class="box">
-                <img src="pngtree-free-gift-vector-ilustration-png-image_8498394.png">
+                <img src="./image/pngtree-free-gift-vector-ilustration-png-image_8498394.png">
                 <h4>Special Gift Card</h4>
                 <p>Give the perfict Gift</p>
             </div>
                <div class="box">
-                <img src="88134.png">
+                <img src="./image/88134.png">
                 <h4>Worldwide Shipping</h4>
                 <p>On Order Over $99</p>
             </div>
@@ -88,7 +88,7 @@ if (isset($_POST['logout'])) {
             <div class="row">
                 <div class="box">
                     <div class="img-box">
-                    <img src="th (18).jpeg">
+                    <img src="./image/th (18).jpeg">
                 </div>
                 <div class="detail">
                     <span>Finace Manager</Main></span>
@@ -104,7 +104,7 @@ if (isset($_POST['logout'])) {
                 </div>
                 <div class="box">
                     <div class="img-box">
-                    <img src="TQ96K10SC7OEYNJSRO9D80.jpg">
+                    <img src="./image/TQ96K10SC7OEYNJSRO9D80.jpg">
                 </div>
                 <div class="detail">
                     <span>Finace Manager</Main></span>
@@ -120,7 +120,7 @@ if (isset($_POST['logout'])) {
                 </div>
                 <div class="box">
                     <div class="img-box">
-                    <img src="127715041.jpg">
+                    <img src="./image/127715041.jpg">
                 </div>
                 <div class="detail">
                     <span>Finace Manager</Main></span>
@@ -136,7 +136,7 @@ if (isset($_POST['logout'])) {
                 </div>
                 <div class="box">
                     <div class="img-box">
-                    <img src="th (19).jpeg">
+                    <img src="./image/th (19).jpeg">
                 </div>
                 <div class="detail">
                     <span>Finace Manager</Main></span>
@@ -152,7 +152,7 @@ if (isset($_POST['logout'])) {
                 </div>
                 <div class="box">
                     <div class="img-box">
-                    <img src="th (20).jpeg">
+                    <img src="./image/th (20).jpeg">
                 </div>
                 <div class="detail">
                     <span>Finace Manager</Main></span>
@@ -176,13 +176,13 @@ if (isset($_POST['logout'])) {
             </div>
             <div class="row">
                 <div class="box">
-                   <img src="th (22).jpeg"> 
+                   <img src="./image/th (22).jpeg"> 
                 </div>
                 <div class="box">
-                   <img src="th (21).jpeg"> 
+                   <img src="./image/th (21).jpeg"> 
                 </div>
                 <div class="box">
-                   <img src="GettyImages-629296762-5bc8f5cfc9e77c00516143b4.jpg"> 
+                   <img src="./image/GettyImages-629296762-5bc8f5cfc9e77c00516143b4.jpg"> 
                 </div>
             </div>
         </div>

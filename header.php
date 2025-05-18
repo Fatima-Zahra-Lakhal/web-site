@@ -43,7 +43,7 @@
                 </form>
             </div>
             </div>
-            <img class="f" src="logobeensi.png">
+            <img class="f" src="./image/logobeensi.png">
     </header>
     <script type="text/javascript" src="script2.js"></script>
 </body>
